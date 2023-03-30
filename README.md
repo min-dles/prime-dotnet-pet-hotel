@@ -3,7 +3,7 @@
 This is a standard c-sharp project that was started with `dotnet new webapi --no-https -n project-name`. In addition:
 
   - It had dotnet 6 as its version. If you installed 8, for example, in the `pet-hotel.csproj` file, change the target framework to:
-  `<TargetFramework>net8.0</TargetFramework>` (This was updataed 02/14/24)
+  `<TargetFramework>net8.0</TargetFramework>` (This was updated 02/14/24)
 
   - Postgres support is added and ready to go. The connection string can be updated in `appsettings.json`.
  
